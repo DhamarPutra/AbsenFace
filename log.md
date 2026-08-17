@@ -1,3 +1,3 @@
-WIB: Tuesday, 18 August 2026 04.14.10 UTC
-WITA: Tuesday, 18 August 2026 05.14.10 UTC
-WIT: Tuesday, 18 August 2026 06.14.10 UTC
+WIB: Tuesday, 18 August 2026 05.11.18 UTC
+WITA: Tuesday, 18 August 2026 06.11.18 UTC
+WIT: Tuesday, 18 August 2026 07.11.18 UTC
