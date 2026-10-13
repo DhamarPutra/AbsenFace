@@ -1,3 +1,3 @@
-WIB: Tuesday, 13 October 2026 03.01.13 UTC
-WITA: Tuesday, 13 October 2026 04.01.13 UTC
-WIT: Tuesday, 13 October 2026 05.01.13 UTC
+WIB: Tuesday, 13 October 2026 09.17.11 UTC
+WITA: Tuesday, 13 October 2026 10.17.11 UTC
+WIT: Tuesday, 13 October 2026 11.17.11 UTC
